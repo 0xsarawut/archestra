@@ -26,15 +26,15 @@
   "license": "ISC",
   "dependencies": {
     "ai": "^6.0.116",
-    "better-auth": "1.5.5",
+    "better-auth": "1.7.7",
     "zod": "^4.3.4"
   },
   "devDependencies": {
-    "@hey-api/openapi-ts": "^0.94.0",
+    "@hey-api/openapi-ts": "^0.99.0",
     "@types/node": "^25",
     "@typescript/native-preview": "catalog:",
     "knip": "^5.85.0",
     "typescript": "catalog:",
-    "vitest": "^4.1.0"
+    "vitest": "^5.0.3"
   }
 }
